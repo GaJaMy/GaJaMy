@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <h2 align ="center">My stats</h2>
 
 ![GaJaMy's github stats](https://github-readme-stats.vercel.app/api?username=GaJaMy&show_icons=true)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mansa0805)](https://solved.ac/mansa0805/)
 
